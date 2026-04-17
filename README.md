@@ -130,7 +130,7 @@ peso_real        = (3 + 1 + 2.03) / 3 = 2.01  ✓ dentro do range [2.0, 3.0]
 ```
 Bloco 1: [7, 3, 1, 5]   <- 7 plantado, resto aleatório
 Bloco 2: [4, 9, 2, 6]   <- 4 plantado, resto aleatório
-Bloco 3: [8, 0, 5, 3]   <- apenas aleatório
+Bloco 3: [8, 0, 5, 9]   <- apenas aleatório
 ```
  
 **RMe e RMa:**
