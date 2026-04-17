@@ -90,7 +90,7 @@ peso_real = (media_operadores + peso_valores + faixa_R) / 3
 | Saída | Descrição |
 |---|---|
 | `R` | Resultado da equação gerada |
-| `P` | Lista de operadores disponíveis, derivados do peso alvo |
+| `O` | Lista de operadores disponíveis, derivados do peso alvo |
 | `B` | Lista de `N` arrays, cada um com `F` faces geradas |
 | `RMe` | Valor sorteado abaixo de `R / 3`, com solução alcançável garantida |
 | `RMa` | Valor sorteado acima de `R + (R / 3)`, com solução alcançável garantida |
